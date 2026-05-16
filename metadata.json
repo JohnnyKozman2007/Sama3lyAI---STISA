@@ -1,0 +1,10 @@
+{
+  "name": "Ostazy",
+  "description": "A warm, friendly Egyptian Arabic (Masri) voice assistant for natural conversations, support, and learning.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
